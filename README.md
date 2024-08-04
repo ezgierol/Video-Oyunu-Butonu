@@ -14,3 +14,4 @@ exampleValue şimdi false değerine eşittir.
 Bunu butonun içindeki (butonun açılış ve kapanış etiketleri arasındaki boşlukta) ternary operatörü ile yapabilirsiniz .
 
 Bunu yapmanın başka yolları da olduğunu unutmayın; bu şekilde yapmak *zorunda* değilsiniz (Ancak bunu yapmanın en kısa yolu budur.) -->
+https://video-oyunu-butonu-ten.vercel.app/
